@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  width: 100%;
+  text-align: center;
+}
+.header {
+  margin: 2rem 0;
+}
